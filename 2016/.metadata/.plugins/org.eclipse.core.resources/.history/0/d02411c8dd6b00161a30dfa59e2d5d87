@@ -28,8 +28,6 @@ import edu.wpi.first.wpilibj.DigitalInput;
 
 // THIS IS A TEST RIGHT HERE, RIGHT NOW, TO SEE WHETHER I AM DOING THINGS THE RIGHT WAY OR NOT.... - ARMAN HASAN
 
-// TEST NUMBER TWO.... - ARMAN HASAN ON DESKTOP
-
 public class Robot extends SampleRobot {
 	public static final Subsystem exampleSubsystem = null;
 	RobotDriveIII myRobot;
