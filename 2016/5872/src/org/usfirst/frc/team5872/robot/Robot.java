@@ -25,6 +25,9 @@ import edu.wpi.first.wpilibj.DigitalInput;
  * creating this project, you must also update the manifest file in the resource
  * directory.
  */
+
+// THIS IS A TEST RIGHT HERE, RIGHT NOW, TO SEE WHETHER I AM DOING THINGS THE RIGHT WAY OR NOT.... - ARMAN HASAN
+
 public class Robot extends SampleRobot {
 	public static final Subsystem exampleSubsystem = null;
 	RobotDriveIII myRobot;
